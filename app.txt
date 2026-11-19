@@ -1,2 +1,3 @@
 Welcome to DevOps
 This is my Git practical.
+Updated directly from GitHub
